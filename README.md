@@ -62,7 +62,7 @@ To see the app in action, go to [https://courthub.herokuapp.com/](https://courth
 ### Clone or download this repository
 
 ```sh
-git clone https://github.com/lucasweng/yelp-camp.git
+git clone https://github.com/tadasbu/courthub.git
 ```
 
 ### Install dependencies
